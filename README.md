@@ -93,8 +93,8 @@ bhavishyasri = {
 
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/bhavishya-sri-matangi-35618b35a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Email](matangibhavishyasri@gmail.com)](mailto:your-email-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavishya-sri-matangi-35618b35a)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matangibhavishyasri@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhavishyasriMatangi-rgb)
 
 </div>
@@ -108,18 +108,3 @@ bhavishyasri = {
 ⭐ **If you find my work interesting, feel free to star a repo or reach out!**
 
 </div>
-
-<!--
-**BhavishyasriMatangi-rgb/BhavishyasriMatangi-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
